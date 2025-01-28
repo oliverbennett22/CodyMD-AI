@@ -4,7 +4,7 @@ https://codymdai.com/
 
 A portfolio-ish platform that helps visualize some of my interesting Artificial Intelligence projects and researches.
 
-Deep Learning is a new area of Machine Learning research, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: **Artificial Intelligence.**
+With CodyMD, you can get your health fix from anywhere with Wi-Fi—no more waiting rooms or awkward small talk! CodyMD is like your personal health superhero, swooping in to save the day with instant help whenever you need it!
 
 After taking deep learning courses at MIT, Stanford Udacity and Coursera. I started working on projects to reinforce some fundamentals and also have fun with the new area of ML research.
 
@@ -12,12 +12,11 @@ Resources: You'll find interesting datasets on [deeplearning.net](http://deeplea
 
 ## Projects
 
-- Image Classification
+- health related information and tips
 - Generative Models
-- Image Search
-- A.I. Articles
+- A.I. Health Articles
 - Auto-encoding
-- Reinforcement Learning
+- Reinforcement Health Learning
 
 ## Research
 

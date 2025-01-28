@@ -4,7 +4,7 @@ https://codymdai.com/
 
 A portfolio-ish platform that helps visualize some of my interesting Artificial Intelligence projects and researches.
 
-With CodyMD, you can get your health fix from anywhere with Wi-Fi—no more waiting rooms or awkward small talk! CodyMD is like your personal health superhero, swooping in to save the day with instant help whenever you need it!
+With CodyMD, you can get your health fix from anywhere with Wi-Fi no more waiting rooms or awkward small talk! CodyMD is like your personal health superhero, swooping in to save the day with instant help whenever you need it!
 
 After taking deep learning courses at MIT, Stanford Udacity and Coursera. I started working on projects to reinforce some fundamentals and also have fun with the new area of ML research.
 

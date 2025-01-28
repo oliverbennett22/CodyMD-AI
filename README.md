@@ -1,10 +1,10 @@
-# Imaginary A.I.
+# Cody MD A.I.
 
-> by _[Victor I. Afolabi](https://github.com/victor-iyiola/)_
+https://codymdai.com/
 
 A portfolio-ish platform that helps visualize some of my interesting Artificial Intelligence projects and researches.
 
-![Imaginary A.I. homepage](static/images/imaginary-ai-homepage.png)
+![Imaginary A.I. homepage](static/images/CodyMD-ai-homepage.png)
 
 Deep Learning is a new area of Machine Learning research, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: **Artificial Intelligence.**
 
@@ -48,11 +48,10 @@ Clone this repo
 git clone https://github.com/victor-iyiola/imaginary-ai.git
 ```
 
-Or download the project [here](https://github.com/victor-iyiola/imaginary-ai/archive/master.zip)
-
+Or download the project
 Then change your working directory as show below
 ```commandline
-cd imaginary-ai
+cd CodyMD-ai
 ```
 
 Install python dependencies
@@ -86,4 +85,4 @@ python run.py --debug=True
 ```
 ## Contributions
 
-This project is opened under [MIT 2.0 license](https://github.com/victor-iyiola/imaginary-ai/blob/master/LICENSE).
+This project is opened under [MIT 2.0 license]

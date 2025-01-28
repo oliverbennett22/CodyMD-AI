@@ -84,3 +84,5 @@ python run.py --debug=True
 ## Contributions
 
 This project is opened under [MIT 2.0 license]
+
+You can also join our x community https://x.com/codyaidoc?s=21
